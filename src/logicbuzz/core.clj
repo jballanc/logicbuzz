@@ -10,6 +10,7 @@
    (fd/< p q))
   ([_ _ r]
    (cl/fresh [a]
+             (fd/in a (fd/interval 0 Integer/MAX_VALUE))
              (fd/+ a q p)
              (modo a q r))))
 
