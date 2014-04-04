@@ -1,14 +1,14 @@
-# logicbuzz
+# Logic Buzz
 
-A Clojure library designed to ... well, that part is up to you.
+A different take on a classic.
 
 ## Usage
 
-FIXME
+Using Leiningen, just run: `lein run`
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Joshua Ballanco
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the BSD 2-Clause License. See COPYING for full details.
+
