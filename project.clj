@@ -1,4 +1,4 @@
-(defproject logicbuzz "0.1.0-SNAPSHOT"
+(defproject logicbuzz "1.0.0"
   :description "FizzBuzz with more LOGIC!"
   :license {:name "BSD 2-Clause License"
             :url "http://opensource.org/licenses/BSD-2-Clause"}
